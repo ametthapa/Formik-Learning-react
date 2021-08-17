@@ -1,3 +1,11 @@
+## This is a Signup Page only, made using Formik and Yup
+
+This project is developed following the LogRocket Video titled as Building better React forms with Formik
+
+This is first project developed while learning Formik and Yup. And i got error and stopped to continue till end. 
+
+So i learned and developed other repository entitled as [Sign Up With Formik](https://github.com/ametthapa/Signup-with-Formik).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
